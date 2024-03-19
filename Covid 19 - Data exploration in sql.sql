@@ -1,5 +1,5 @@
 /* COVID 19 Data Exploration. 
-Since I don't have a windows system I am using BigQuery insteda of SSMS for my Queries.  
+Since I don't have a windows system I am using BigQuery instead of SSMS for my Queries.  
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types. */
 
 # For reference - 'spry-bus-413817' is my project name in BigQuery and 'CovidDataExploration' is my dataset name.
